@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Delicious Bootstrap Template - Index</title>
+  <title>Adega Du Pindare</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -40,8 +40,8 @@
   <!-- ======= Top Bar ======= -->
   <section id="topbar" class="d-none d-lg-flex align-items-center fixed-top topbar-transparent">
     <div class="container text-right">
-      <i class="icofont-phone"></i> +1 5589 55488 55
-      <i class="icofont-clock-time icofont-rotate-180"></i> Mon-Sat: 11:00 AM - 23:00 PM
+      <i class="icofont-phone"></i> (51) 99941-9573
+      <i class="icofont-clock-time icofont-rotate-180"></i> Aberto das: 19:00 PM - 04:00 AM
     </div>
   </section>
 
@@ -50,23 +50,23 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span>Delicious</span></a></h1>
+        <h1 class="text-light"><a href="index.html"><span>Adega Du Pindaré</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li class="active"><a href="index.html">Inicio</a></li>
+          <li><a href="#about">Sobre</a></li>
           <li><a href="#menu">Menu</a></li>
-          <li><a href="#specials">Specials</a></li>
-          <li><a href="#events">Events</a></li>
+          <li><a href="#specials">Especiais</a></li>
+          <li><a href="#events">Eventos</a></li>
           <li><a href="#chefs">Chefs</a></li>
-          <li><a href="#gallery">Gallery</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#gallery">Galeria</a></li>
+          <li><a href="#contact">Contatos</a></li>
 
-          <li class="book-a-table text-center"><a href="#book-a-table">Book a table</a></li>
+          <li class="book-a-table text-center"><a href="#book-a-table">Reservar Bebida</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -83,7 +83,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-item active" style="background: url(assets/img/foto-1.jpg) no-repeat;">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown"><span>Delicious</span> Restaurant</h2>
@@ -97,7 +97,7 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg);">
+          <div class="carousel-item" style="background: url(assets/img/foto-2.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -111,8 +111,38 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg);">
-            <div class="carousel-background"><img src="assets/img/slide/slide-3.jpg" alt=""></div>
+          <div class="carousel-item" style="background: url(assets/img/foto-3.jpg);">
+            <div class="carousel-background"><img src="assets/img/foto-3.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
+                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <div>
+                  <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
+                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Book a Table</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 4 -->
+          <div class="carousel-item" style="background: url(assets/img/foto-4.jpg);">
+            <div class="carousel-background"><img src="assets/img/foto-4.jpg" alt=""></div>
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
+                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <div>
+                  <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
+                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Book a Table</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 5 -->
+          <div class="carousel-item" style="background: url(assets/img/foto-5.jpg);">
+            <div class="carousel-background"><img src="assets/img/foto-5.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
